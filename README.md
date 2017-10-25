@@ -6,7 +6,7 @@ This program provides a Graphical User Interface (GUI) for the VoteCoin client t
 
 ![Screenshot](docs/VoteCoinWallet.png "Main Window")
 
-#### New/Experimental: [VoteCoin Desktop GUI Wallet for Windows](blob/VoteCoinSwingWalletUI.jar) is available
+#### New/Experimental: [VoteCoin Desktop GUI Wallet for Windows](blob/) is available
 
 
 ## Building, installing and running the Wallet GUI
@@ -64,9 +64,9 @@ The details of how to build it are described below (easy to follow).
    Assuming you have already built it from source code in directory `/home/user/votecoin/src` (for 
    example - this is the typical build dir. for VoteCoin v1.0.8) which contains the command line tools `votecoin-cli` 
    and `votecoind` you need to take the created file `./build/jars/VoteCoinSwingWalletUI.jar` and copy it 
-   to directory `/home/user/hush/src` (the same dir. that contains `votecoin-cli` and `votecoind`). Example copy command:
+   to directory `/home/user/VoteCoin/src` (the same dir. that contains `votecoin-cli` and `votecoind`). Example copy command:
    ```
-   user@ubuntu:~/build-dir/votecoin-swing-wallet-ui$ cp ./build/jars/VoteCoinSwingWalletUI.jar /home/user/hush/src    
+   user@ubuntu:~/build-dir/votecoin-swing-wallet-ui$ cp ./build/jars/VoteCoinSwingWalletUI.jar /home/user/VoteCoin/src    
    ```
 
 4. Running the installed VoteCoin GUI wallet
@@ -95,7 +95,7 @@ At the present time this project is non-commercial in nature and developed by vo
 Wallet useful, please consider making a donation for its further development. Your contribution matters! Donations 
 are accepted at VoteCoin T address:
 ```
-t1UDhNq2aEqvxEbPzcRM8n2QJV8YJ664rXJ
+t1UPMo3oYg25mRSpJcLaBSi5GZvyMLC19HX
 ```
 
 ### License
