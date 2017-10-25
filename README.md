@@ -6,7 +6,7 @@ This program provides a Graphical User Interface (GUI) for the VoteCoin client t
 
 ![Screenshot](docs/VoteCoinWallet.png "Main Window")
 
-#### New/Experimental: [VoteCoin Desktop GUI Wallet for Windows](https://github.com/vaklinov/votecoin-swing-wallet-ui/blob/master/docs/Release_0.68.6.md) is available
+#### New/Experimental: [VoteCoin Desktop GUI Wallet for Windows](blob/VoteCoinSwingWalletUI.jar) is available
 
 
 ## Building, installing and running the Wallet GUI
